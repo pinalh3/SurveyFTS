@@ -1,0 +1,114 @@
+#s
+{
+	height:1054px;
+	width:934px;
+	margin:0 auto;
+	
+}
+
+.title
+{
+	display:inline;
+	font-size:14px;
+}
+
+.tbord
+{
+	
+	display:inline;
+	font-size:14px;
+	text-decoration: underline;
+}
+.hd1
+{
+	border:solid 1px;
+	border-color:black;
+	text-align:Center;
+	background-color:rgb(183, 210, 255);
+	font-size:14px;
+}
+
+.ph
+{
+	margin:0 auto;
+}
+
+.lat
+{
+	border-left:solid 1px;
+	border-right:solid 1px;
+}
+.center
+{
+	text-align:center;
+}
+
+.small-caps
+{
+	font-size:14px;
+}
+
+.top
+{
+	border-top:solid 1px;
+}
+
+.right
+{
+	border-right:solid 1px;
+	margin-right:-1px;
+	
+}
+
+#simb
+{
+	height:55px;
+	width:55px;
+	margin: auto;
+	display:block;
+}
+
+.bottom
+{
+	border-bottom:solid 1px;
+}
+
+.red
+{
+	color:red;
+	font-style: italic;
+}
+
+.hd2
+{
+	text-align:Center;
+	background-color:rgb(183, 210, 255);
+	font-size:14px;
+	height:58px;
+	
+}
+
+.borders
+{
+	border:solid 1px;
+}
+
+.left
+{
+	border-left:solid 1px;
+}
+
+.margin
+{
+    margin:0 auto;
+}
+
+.align
+{
+	text-align:center;
+}
+
+.pneg
+{
+	margin:-1px;
+}

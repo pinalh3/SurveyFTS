@@ -1,0 +1,139 @@
+[18-Apr-2019 15:01:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/formats/flightlog.php on line 283
+[18-Apr-2019 15:02:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/formats/flightlog.php on line 19
+[18-Apr-2019 15:02:29 UTC] PHP Stack trace:
+[18-Apr-2019 15:02:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 15:02:29 UTC] PHP   2. mysqli_query(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:19
+[18-Apr-2019 15:02:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/formats/flightlog.php on line 20
+[18-Apr-2019 15:02:29 UTC] PHP Stack trace:
+[18-Apr-2019 15:02:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 15:02:29 UTC] PHP   2. mysqli_num_rows(*uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:20
+[18-Apr-2019 15:16:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/formats/flightlog.php on line 19
+[18-Apr-2019 15:16:42 UTC] PHP Stack trace:
+[18-Apr-2019 15:16:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 15:16:42 UTC] PHP   2. mysqli_query(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:19
+[18-Apr-2019 15:16:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/formats/flightlog.php on line 20
+[18-Apr-2019 15:16:42 UTC] PHP Stack trace:
+[18-Apr-2019 15:16:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 15:16:42 UTC] PHP   2. mysqli_num_rows(*uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:20
+[18-Apr-2019 15:18:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/formats/flightlog.php on line 19
+[18-Apr-2019 15:18:27 UTC] PHP Stack trace:
+[18-Apr-2019 15:18:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 15:18:27 UTC] PHP   2. mysqli_query(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:19
+[18-Apr-2019 15:18:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/formats/flightlog.php on line 20
+[18-Apr-2019 15:18:27 UTC] PHP Stack trace:
+[18-Apr-2019 15:18:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 15:18:27 UTC] PHP   2. mysqli_num_rows(*uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:20
+[18-Apr-2019 15:22:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/formats/flightlog.php on line 19
+[18-Apr-2019 15:22:47 UTC] PHP Stack trace:
+[18-Apr-2019 15:22:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 15:22:47 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/formats/flightlog.php:19
+[18-Apr-2019 15:22:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/formats/flightlog.php on line 20
+[18-Apr-2019 15:22:47 UTC] PHP Stack trace:
+[18-Apr-2019 15:22:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 15:22:47 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/formats/flightlog.php:20
+[18-Apr-2019 15:25:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/formats/flightlog.php on line 19
+[18-Apr-2019 15:25:28 UTC] PHP Stack trace:
+[18-Apr-2019 15:25:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 15:25:28 UTC] PHP   2. mysqli_query(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:19
+[18-Apr-2019 15:25:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/formats/flightlog.php on line 20
+[18-Apr-2019 15:25:28 UTC] PHP Stack trace:
+[18-Apr-2019 15:25:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 15:25:28 UTC] PHP   2. mysqli_num_rows(*uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:20
+[18-Apr-2019 15:27:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/formats/flightlog.php on line 19
+[18-Apr-2019 15:27:24 UTC] PHP Stack trace:
+[18-Apr-2019 15:27:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 15:27:24 UTC] PHP   2. mysqli_query(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:19
+[18-Apr-2019 15:27:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/formats/flightlog.php on line 20
+[18-Apr-2019 15:27:24 UTC] PHP Stack trace:
+[18-Apr-2019 15:27:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 15:27:24 UTC] PHP   2. mysqli_num_rows(*uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:20
+[18-Apr-2019 15:31:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/formats/flightlog.php on line 19
+[18-Apr-2019 15:31:21 UTC] PHP Stack trace:
+[18-Apr-2019 15:31:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 15:31:21 UTC] PHP   2. mysqli_query(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:19
+[18-Apr-2019 15:31:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/formats/flightlog.php on line 20
+[18-Apr-2019 15:31:21 UTC] PHP Stack trace:
+[18-Apr-2019 15:31:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 15:31:21 UTC] PHP   2. mysqli_num_rows(*uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:20
+[18-Apr-2019 20:17:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/formats/flightlog.php on line 46
+[18-Apr-2019 20:17:25 UTC] PHP Stack trace:
+[18-Apr-2019 20:17:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 20:17:25 UTC] PHP   2. mysqli_query(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:46
+[18-Apr-2019 20:17:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/formats/flightlog.php on line 47
+[18-Apr-2019 20:17:25 UTC] PHP Stack trace:
+[18-Apr-2019 20:17:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 20:17:25 UTC] PHP   2. mysqli_num_rows(*uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:47
+[18-Apr-2019 20:19:09 UTC] PHP Warning:  include_once(con.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/formats/flightlog.php on line 3
+[18-Apr-2019 20:19:09 UTC] PHP Stack trace:
+[18-Apr-2019 20:19:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 20:19:09 UTC] PHP Warning:  include_once(): Failed opening 'con.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/formats/flightlog.php on line 3
+[18-Apr-2019 20:19:09 UTC] PHP Stack trace:
+[18-Apr-2019 20:19:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 20:19:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/formats/flightlog.php on line 53
+[18-Apr-2019 20:19:09 UTC] PHP Stack trace:
+[18-Apr-2019 20:19:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 20:19:09 UTC] PHP   2. mysqli_query(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:53
+[18-Apr-2019 20:19:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/formats/flightlog.php on line 54
+[18-Apr-2019 20:19:09 UTC] PHP Stack trace:
+[18-Apr-2019 20:19:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 20:19:09 UTC] PHP   2. mysqli_num_rows(*uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:54
+[18-Apr-2019 21:27:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/formats/flightlog.php on line 127
+[18-Apr-2019 21:27:42 UTC] PHP Stack trace:
+[18-Apr-2019 21:27:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 21:27:42 UTC] PHP   2. mysqli_num_rows(*uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:127
+[18-Apr-2019 21:34:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/formats/flightlog.php on line 127
+[18-Apr-2019 21:34:48 UTC] PHP Stack trace:
+[18-Apr-2019 21:34:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 21:34:48 UTC] PHP   2. mysqli_num_rows(*uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:127
+[18-Apr-2019 23:29:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/formats/flightlog.php on line 257
+[18-Apr-2019 23:29:03 UTC] PHP Stack trace:
+[18-Apr-2019 23:29:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 23:29:03 UTC] PHP   2. mysqli_num_rows(*uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:257
+[18-Apr-2019 23:29:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/formats/flightlog.php on line 257
+[18-Apr-2019 23:29:44 UTC] PHP Stack trace:
+[18-Apr-2019 23:29:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 23:29:44 UTC] PHP   2. mysqli_num_rows(*uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:257
+[18-Apr-2019 23:44:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/formats/flightlog.php on line 279
+[18-Apr-2019 23:44:15 UTC] PHP Stack trace:
+[18-Apr-2019 23:44:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 23:44:15 UTC] PHP   2. mysqli_num_rows(*uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:279
+[18-Apr-2019 23:46:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/formats/flightlog.php on line 279
+[18-Apr-2019 23:46:31 UTC] PHP Stack trace:
+[18-Apr-2019 23:46:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/flightlog.php:0
+[18-Apr-2019 23:46:31 UTC] PHP   2. mysqli_num_rows(*uninitialized*) /home/ubuntu/workspace/formats/flightlog.php:279
+[07-Jun-2019 13:55:04 UTC] PHP Parse error:  syntax error, unexpected '$date' (T_VARIABLE) in /home/ubuntu/workspace/formats/events.php on line 41
+[07-Jun-2019 13:58:43 UTC] PHP Parse error:  syntax error, unexpected '$date' (T_VARIABLE) in /home/ubuntu/workspace/formats/events.php on line 41
+[07-Jun-2019 13:59:30 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/ubuntu/workspace/formats/events.php on line 46
+[07-Jun-2019 14:00:12 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/ubuntu/workspace/formats/events.php on line 46
+[07-Jun-2019 14:52:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/formats/events.php on line 52
+[12-Jun-2019 12:37:35 UTC] PHP Warning:  include(session.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/formats/events.php on line 4
+[12-Jun-2019 12:37:35 UTC] PHP Stack trace:
+[12-Jun-2019 12:37:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/events.php:0
+[12-Jun-2019 12:37:35 UTC] PHP Warning:  include(): Failed opening 'session.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/formats/events.php on line 4
+[12-Jun-2019 12:37:35 UTC] PHP Stack trace:
+[12-Jun-2019 12:37:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/events.php:0
+[12-Jun-2019 12:37:35 UTC] PHP Warning:  include(session.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/formats/events.php on line 4
+[12-Jun-2019 12:37:35 UTC] PHP Stack trace:
+[12-Jun-2019 12:37:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/events.php:0
+[12-Jun-2019 12:37:35 UTC] PHP Warning:  include(): Failed opening 'session.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/formats/events.php on line 4
+[12-Jun-2019 12:37:35 UTC] PHP Stack trace:
+[12-Jun-2019 12:37:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/events.php:0
+[12-Jun-2019 12:37:49 UTC] PHP Warning:  include(session.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/formats/events.php on line 4
+[12-Jun-2019 12:37:49 UTC] PHP Stack trace:
+[12-Jun-2019 12:37:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/events.php:0
+[12-Jun-2019 12:37:49 UTC] PHP Warning:  include(): Failed opening 'session.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/formats/events.php on line 4
+[12-Jun-2019 12:37:49 UTC] PHP Stack trace:
+[12-Jun-2019 12:37:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/events.php:0
+[12-Jun-2019 12:38:37 UTC] PHP Warning:  include(session.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/formats/events.php on line 4
+[12-Jun-2019 12:38:37 UTC] PHP Stack trace:
+[12-Jun-2019 12:38:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/events.php:0
+[12-Jun-2019 12:38:37 UTC] PHP Warning:  include(): Failed opening 'session.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/formats/events.php on line 4
+[12-Jun-2019 12:38:37 UTC] PHP Stack trace:
+[12-Jun-2019 12:38:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/events.php:0
+[12-Jun-2019 12:39:47 UTC] PHP Warning:  include(session.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/formats/events.php on line 4
+[12-Jun-2019 12:39:47 UTC] PHP Stack trace:
+[12-Jun-2019 12:39:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/events.php:0
+[12-Jun-2019 12:39:47 UTC] PHP Warning:  include(): Failed opening 'session.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/formats/events.php on line 4
+[12-Jun-2019 12:39:47 UTC] PHP Stack trace:
+[12-Jun-2019 12:39:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/formats/events.php:0
+[17-Jun-2019 16:17:32 UTC] PHP Parse error:  syntax error, unexpected '"C.I."' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/formats/atrace.php on line 217

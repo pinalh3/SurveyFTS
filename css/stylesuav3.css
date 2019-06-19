@@ -1,0 +1,382 @@
+html,
+body
+{
+	margin:0;
+	padding: 0;
+	width: 100%;
+    height: 100%;
+   	
+}
+
+#survey 
+{
+	width: 250px;
+	height: 100px;
+
+}
+
+
+#logo2 
+{
+	margin-left: 25px;
+	margin-top: 20px;
+	width: 80%;
+	height: 80%;
+}
+
+.head1
+{
+	background-color: #f2f2f7;
+	
+}
+
+.head2
+{
+	background-color: #222268;
+	
+	
+}
+
+#container1
+{
+	
+}
+
+#titulo h1
+{
+	font-size: 40px;
+	font-family: Lato;
+	color:#fff;
+	text-align: center;
+}
+
+.navegador
+{
+	margin: auto;
+
+
+}
+
+.navegador ul
+{
+	list-style: none;
+
+}
+
+.men1
+{
+	margin:0;
+	font-family: lato;
+	color: #c7ccd6;
+	
+	
+}
+
+.men1 > li
+{
+	min-width: 176px;
+	text-align: center;
+	display: inline-block;
+	list-style: none;
+}
+
+.men1 > li >a
+{
+	display: block;
+	color:white;
+	padding: 15px 20px;
+	text-decoration: none;
+	
+
+}
+
+.men1 li a:hover
+{
+	color:blue;
+	background-color: #4c4e51;
+	transition: all .3s;
+	
+}
+
+.smen1
+{
+	position: absolute;
+	list-style: none;
+	padding: 0px;
+	min-width: 176px;
+	background-color: #29292d;
+	visibility: hidden;
+	opacity: 0;
+	transition: opacity 1.5s;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.smen1 li a
+{
+	display: block;
+	padding: 5px;
+	color: #fff;
+	text-decoration: none;
+	
+
+}
+
+.men1 li:hover .smen1 
+{
+	visibility: visible;
+	opacity: 0.7;
+}
+
+#vacio
+{
+	height: 30px;
+}
+
+
+
+#container2
+{
+	
+	background-color: #29292d;
+}
+
+#menup
+{
+	background-color: #29292d;
+	height: 100%;
+	font-family: lato;
+}
+
+#ipers
+{
+	width: 100%;
+	height: 120px;
+	align-content: center;
+}
+#pers
+{
+	margin-left: 75px;
+	background-image: url("img/pers.svg");
+	background-repeat: no-repeat;
+    background-position: 50%;
+	border-radius: 50%;
+	background-size: 100% auto;
+	width: 100px;
+	height: 100px;
+	border:solid 3px;
+	border-color: #a3a5a8;
+	background-color: #176ded;
+	
+	
+}
+
+#user
+{
+	width: 200px;
+	text-align:center;
+	color: #e6e9ef
+
+}
+
+#u
+{
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+#menu
+{
+	width: 200px;
+	text-align:center;
+	color: #e6e9ef
+
+}
+
+#m
+{
+	width:100%;
+	padding:0px;
+	text-align:left;
+	color: #e6e9ef;
+	list-style: none;
+
+}
+
+#men
+{
+	visibility: hidden;
+}
+
+#forma
+{
+	background-image: url("img/surveying.svg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	/*opacity: 0.5;*/
+	display: -webkit-flex;
+  display:         flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+
+}
+
+#box
+{
+	height: 200px;
+	width: 300px;
+	box-shadow: 0 0 10px #60646b;
+	border-radius: 7px;
+	background-color: #c7c9cc;
+	/*display: inline-block;
+	margin-left: 400px;
+	margin-top: 50px;
+	margin-bottom: 50px;*/
+	padding:75px;
+	display: -webkit-flex;
+    display:         flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+
+#box input
+{
+	/*margin-left:150px;
+	margin-top: 30px; #c7c9cc*/
+	width: 150px;
+	height: 30px;
+	border-color: #4c4e51;
+	box-shadow: 0 0 3px #4c4e51;
+	display: inline-block;
+	text-indent: 4px;
+	border-radius: 2px;
+	font-family: lato;
+	color: #4c4e51;
+	
+}
+
+#box input:focus
+{
+	outline: none;
+	border-color: #4c4e51;
+	box-shadow: 0 0 10px #f44842;
+}
+
+.l
+{
+	margin:0;
+	text-align: center;
+	vertical-align: middle;
+	display:inline-block;
+	height: 35.2px;
+	width: 80px;
+	font-family: Lato;
+	color: #c7ccd6;
+	background-color:#4c4e51;
+	border-radius: 2px;
+}
+
+.l p
+{
+	margin-top:5px;
+
+}
+
+#container3
+{
+	height: 100%;
+	
+	
+}
+
+#but
+{
+	width: 235.2px;
+	height: 35.2px;
+	margin:auto;
+	font-family: Lato;
+	color: #FFF;
+	background-color:#4c4e51;
+	border-radius: 5px;
+
+}
+
+#out
+{
+	width:20px;
+	height:20px;
+}
+
+.mn2
+{
+	padding-top:10px;
+	padding-bottom:10px;
+	margin:auto;
+	font-family: lato;
+	color: #c7ccd6;
+	
+	
+}
+
+.mn2 > li
+{
+	width: 100%;
+	text-align: center;
+	display: inline-block;
+	list-style: none;
+}
+
+.mn2 > li >a
+{
+	width:100%;
+	display: block;
+	color:white;
+	/*padding: 15px 20px;*/
+	text-decoration: none;
+	
+
+}
+
+.mn2 li a:hover
+{
+	color:blue;
+	background-color: #4c4e51;
+	transition: all .3s;
+	
+}
+
+
+
+.smen2
+{
+	
+	list-style: none;
+	padding: 0px;
+	background-color: #29292d;
+	visibility: hidden;
+	opacity: 0;
+	transition: opacity 1.5s;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.smen2 li a
+{
+	display: block;
+	margin-left:200px;
+	padding: 5px;
+	color: #fff;
+	text-decoration: none;
+	
+
+}
+
+.mn2 li:hover .smen2 
+{
+	visibility: visible;
+	opacity: 0.7;
+	left:0;
+}
